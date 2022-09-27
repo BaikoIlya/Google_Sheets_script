@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clever-cortex-363513",
+  "private_key_id": "b136106c0d365ce73ee4f92cd5d7c1ec93c38fa8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7paeE97D1yTYW\nqQsS0wfvrnvocXbcdB3tV1MBlNcaLO/IgpSWwV4bzkYrQXwB85BUHlXXgUJHzHkh\nuw6CbReh62PXBRq7XwoQ6j/yhn/lHVD9tFA6/0KzUD3HJF8BIitnSX98vOICEmWT\nrqDT71Q50ImD98Bex/usoLgyy5kKfDje0oxV1r43SDonFKEGndPI8F3HkcAZCREX\nnzJIX91cBWFJUPLJyCE1OgdVB1FJ92CzbaReCip5TbhlikXraMVx5770cWMfXsK/\nP9WRCCCF3n2eDA1VajXOQxgMgDYa+V5a6WWGlr0sKAaueaOIoZtzGSHky37SdNQc\nhxhZkmR5AgMBAAECggEAQXLxf4jPEaNpOLUkViACDCDdOgFdVl4v1AkZvBr4fbo/\ntj2Jax2t39/uDIdOI/YamKRuB3kfr6BLfa7bTDWVwRWzoJs4rDLldWnm/QXZlQXJ\nKnxaYYGH97gcnBl9A42x+tghXdYZtGRLRpvpn5JB29p3JG7lC4oQJ7F1Hc5ypjt9\nIs2skh0DKdyNP75KBOAq7wqqTE/vP9hZcacktWSosVAa+k8+AXw608+OBGv2AyC4\ni0ecSbyWpHkcX4YY12ETmMHKSYJ1cA1kl5XYrUDGojDQkYAWJhwIdWx4V/2yMmEm\nxsH7MP9fBD+rofQsF+Vr/q/icp33ef0M6UzXV2qRmwKBgQDwgwRmDYZaeHHLJP+N\nRHwJg0Spi6fgQLRjd7/S6jmHf+HyVMe5x+efMKDAYiIwbBLMp5EAai9dldu6KAW1\n1Mh/psy+aPbGEnk3UUF6CfOXTzaIr26YxSWSmV8tw9AhsfdM1bAUKy3U4i4bi1i7\ndBGDxFnhOECmpDnojYnjrGFCWwKBgQDHuyFrAnOeoJuz/LTLJrSdlDAqfPIMmZ0H\nPdaTtoq/ZxuNKpe+pA65Wnn/0+PRnRokjpQrNWlQMFNtH5fx3rspmdXUNXtroKme\n+QXXYrX+EsYkRKWIsqApz9hX4B6COASuhl/iHrKPRQvjoG3Lib3ICvx0mvRrZuYD\ndaixqfCEuwKBgEAb3EdLoZ1p74MjuI6yS5HJkLrUxAnNlYfR+qrAzlbk6phKqvZF\nZ+MR9jdxsQVROW2d2NPQehGrCWfElUkTj+Ie1wKGPgksEW2CVj6uemTBs5qZkJRe\nMJa0FR/AyzDAHFg5uXaWz9+n7nxfF2bYGHcUFpUnBmyk596qI7AxWbdzAoGAYL17\ntzgNxlRmdiw9aXSK4RRIrBuupXm1/C7wgsVUuNZ5Gsv5icYut4piMw5vdzTP18sT\na0ZIhyWREvbNgsJuBv1S+6EX8Y50+eIF+Uf/fFudiy2QvABA4V+hmxab0FjPs7S0\nNnLF6+z2kD9BTuede4oOs2/mWSsS17QijEMSk0cCgYB0ZoNNsctP60QrDM/EYX3u\nujcv4jHuRzUAMRMySJTxAWmPTfrzrsqtd+d2VO+XWsfRxmVobzsJU9XlCEyadWQu\njmOU1o8ss8rahpCzuMyJUfoKPoagZUBp9i+Qlg4Yn2RIA6CU3AacOq9lZixmLcBG\n2zavGvuvjOYE4xr6ETdwwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ilya-baiko@clever-cortex-363513.iam.gserviceaccount.com",
+  "client_id": "107258986490314036495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ilya-baiko%40clever-cortex-363513.iam.gserviceaccount.com"
+}
