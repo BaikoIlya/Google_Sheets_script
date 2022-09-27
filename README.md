@@ -2,6 +2,7 @@
 ## Описание:
 Скрипт позволяет в онлайн режиме получать данный из Google Sheets и вносить их в базу данных PostgreSQL.
 Для работы с данным скриптом предварительно нужно установить PostgreSQL с официального сайта https://www.postgresql.org/ .
+Гугл таблица: https://docs.google.com/spreadsheets/d/1FBvi6jEZ3-AnfTumswPstoVp5eEMUwzsRJmYQPMYJZk/edit#gid=0
 
 ### Установка:
 Клонировать репозиторий и перейти в него в командной строке:
